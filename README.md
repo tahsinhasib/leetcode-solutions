@@ -1,4 +1,4 @@
 
-<div align="center">  
+<div>  
   <img src = "https://leetcard.jacoblin.cool/tahsinhasib?ext=heatmap" width = "70%">
 </div>
